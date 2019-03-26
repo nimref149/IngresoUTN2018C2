@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1553604570 source:c:\users\alumno\desktop\clase 5\clase 5\ingresos.c
+	"ingresos.h"
+	<stdio.h>
+
+1553610491 source:c:\users\alumno\desktop\clase 5\clase 5\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1553606752 c:\users\alumno\desktop\clase 5\clase 5\ingresos.h
+
+1553608984 source:c:\users\alumno\desktop\clase 5\clase 5\recursividad.c
+	"recursividad.h"
+
+1553608532 c:\users\alumno\desktop\clase 5\clase 5\recursividad.h
+
